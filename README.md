@@ -12,8 +12,6 @@
 
 ## My skills 💻
 
-Made with [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-
 ### Languages
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss)
@@ -25,6 +23,8 @@ Made with [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges
 
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+Made with [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
 
 <!-- ### CMS -->
 
