@@ -1,5 +1,5 @@
 - Hi, I'm Loïc CAILLÉ, I'm a french web developer 👋
-- `<explain what do you love. Ex: I love front-end development and i'm interested by back-end development also👨‍💻>`
+
 - On my GitHub profile, I have school projects and personal projects in different technologies
 
 ## My stats⚡️
@@ -12,7 +12,7 @@
 
 ## My skills 💻
 
-Add your skills in the list below, if you don't know the name of the badge, you can find it on repository [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+Made with [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
 
 ### Languages
 
@@ -44,3 +44,4 @@ Add your skills in the list below, if you don't know the name of the badge, you 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url) -->
 
 [![Gmail](https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:loccaille@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/loïc-caille-534679199)
