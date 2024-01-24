@@ -1,4 +1,4 @@
-- Hi, i'm Loïc CAILLÉ, i'm a french web developer 👋
+- Hi, I'm Loïc CAILLÉ, I'm a french web developer 👋
 - `<explain what do you love. Ex: I love front-end development and i'm interested by back-end development also👨‍💻>`
 - On my GitHub profile, I have school projects and personal projects in different technologies
 
@@ -18,10 +18,13 @@ Add your skills in the list below, if you don't know the name of the badge, you 
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 ### Frameworks
 
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 <!-- ### CMS -->
 
@@ -34,9 +37,10 @@ Add your skills in the list below, if you don't know the name of the badge, you 
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
+
 ## Follow me 👉
 
 <!-- Replace `<your-linkedin-url>` by your `linkedin url` and `<your-gmail>` by your `gmail` if you want to display your social media else remove this section <br/>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url) -->
 
-[![Gmail](https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:loccaille@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:loccaille@outlook.com)
