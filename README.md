@@ -37,11 +37,3 @@ Made with [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-
-## Follow me 👉
-
-<!-- Replace `<your-linkedin-url>` by your `linkedin url` and `<your-gmail>` by your `gmail` if you want to display your social media else remove this section <br/>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url) -->
-
-[![Gmail](https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:loccaille@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/loïc-caille-534679199)
